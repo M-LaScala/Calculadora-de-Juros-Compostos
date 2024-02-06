@@ -3,18 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-<<<<<<< HEAD
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraJurosCompostos", "..\CalculadoraDeJurosCompostos\CalculadoraJC\CalculadoraJurosCompostos.csproj", "{CD1EA7F9-1CA3-4D8E-99EC-E412CD300156}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraJurosCompostos", "CalculadoraJC\CalculadoraJurosCompostos.csproj", "{CD1EA7F9-1CA3-4D8E-99EC-E412CD300156}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraJurosCompostosTestes", "..\CalculadoraDeJurosCompostos\CalculadoraJurosCompostosTestes\CalculadoraJurosCompostosTestes.csproj", "{22BB8702-672F-4997-BE62-0C69C5CFBDAE}"
-=======
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraJurosCompostos", "CalculadoraJurosCompostos.csproj", "{CD1EA7F9-1CA3-4D8E-99EC-E412CD300156}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraJurosCompostosTestes", "..\CalculadoraJurosCompostosTestes\CalculadoraJurosCompostosTestes.csproj", "{22BB8702-672F-4997-BE62-0C69C5CFBDAE}"
->>>>>>> origin/master
-	ProjectSection(ProjectDependencies) = postProject
-		{CD1EA7F9-1CA3-4D8E-99EC-E412CD300156} = {CD1EA7F9-1CA3-4D8E-99EC-E412CD300156}
-	EndProjectSection
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraJurosCompostosTestes", "CalculadoraJurosCompostosTestes\CalculadoraJurosCompostosTestes.csproj", "{22BB8702-672F-4997-BE62-0C69C5CFBDAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
