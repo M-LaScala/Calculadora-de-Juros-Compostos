@@ -40,7 +40,7 @@ Neste projeto, foi utilizado as seguintes tecnologias:
 3. Inicie o projeto e verifique o funcionamento.
 
 Exemplo de utilização para calcular juros compostos de forma correta:
-Para realizar o novo cálculo com acréscimo anual informar múltiplos de 12 para considerar 1 ano, para os demais cenários considerar 0.
+Para realizar o novo cálculo com acréscimo anual informar múltiplos de 12 para considerar 1 ano, para os demais cenários considerar aumento anual 0.
 
 ![](./Assets/Exemplo.png)
 
